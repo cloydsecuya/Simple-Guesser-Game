@@ -1,6 +1,7 @@
 # Simple Guesser Game 
 <p align="center"><img src="assets/home_screen_card.png"/></p>
 <h3 align="center">Developed By: Cloyd Van S. Secuya</h3>
+<h4 align="center"><a href="https://github.com/Ciezo/Simple-Guesser-Game">Source Code</a></h4>
 
 <br>
 <hr>
